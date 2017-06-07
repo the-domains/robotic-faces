@@ -1,0 +1,55 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.41799734835512936
+  lightness: 0.45114905037917197
+  saturation: 0.193679703399539
+  rhythmicContrast: 0.8959663971327245
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: robotic faces
+layout_spectrum: 0.028060081647709012
+typography_spectrum: 0.7250473971944302
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="http://polit.ru/media/photolib/2013/04/24/ps_kolmogorov_1_1366803032.jpg">
+    src: 'http://polit.ru/media/photolib/2013/04/24/ps_kolmogorov_1_1366803032.jpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://polit.ru'
+        name: Polit
+        favicon: 'http://polit.ru/favicon.ico'
+        domain: polit.ru
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'http://polit.ru/media/photolib/2013/04/24/ps_kolmogorov_1_1366803032.jpg'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: roBOTic faces
+description: >-
+  My name is Denis. This a place where I describe my path in the world of math,
+  AI and robotics
+url: 'http://roboticfaces.engineer'
+github: true
+author:
+  name: Denis Ambatenne
+  email: dambatenne@gmail.com
