@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   So, I have applied to the Udacity robotics nanodegree and now am preparing
   myself. Udacity suggests the following courses as preparation:
-dateModified: '2017-06-05T22:17:40.699Z'
-datePublished: '2017-06-05T22:17:41.472Z'
+dateModified: '2017-06-05T22:19:17.039Z'
+datePublished: '2017-06-05T22:19:17.816Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-06-05T22:17:41.472Z'
 sourcePath: >-
   _posts/2017-06-05-so-i-have-applied-to-the-udacity-robotics-nanodegree-and-no.md
+starred: false
+datePublishedOriginal: '2017-06-05T22:17:41.472Z'
 _type: Blurb
 
 ---
