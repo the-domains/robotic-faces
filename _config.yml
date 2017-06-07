@@ -1,16 +1,14 @@
-layout_spectrum: 0.07963225877972892
-typography_spectrum: 0.5892329407585692
 color:
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  brandStrength: 0.5913801349548272
-  lightness: 0.33810309926435206
-  saturation: 0.9407582875890749
-  rhythmicContrast: 0.06516888984054843
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.41799734835512936
+  lightness: 0.45114905037917197
+  saturation: 0.193679703399539
+  rhythmicContrast: 0.8959663971327245
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -19,6 +17,8 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: robotic faces
+layout_spectrum: 0.028060081647709012
+typography_spectrum: 0.7250473971944302
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
