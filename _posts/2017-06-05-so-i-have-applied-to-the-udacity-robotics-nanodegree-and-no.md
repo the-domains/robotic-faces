@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   So, I have applied to the Udacity robotics nanodegree and now am preparing
   myself. Udacity suggests the following courses as preparation:
-dateModified: '2017-06-05T22:20:40.490Z'
-datePublished: '2017-06-05T22:20:41.138Z'
+dateModified: '2017-06-05T22:24:50.970Z'
+datePublished: '2017-06-05T22:24:51.872Z'
 title: ''
 author: []
 publisher: {}
@@ -20,14 +20,14 @@ _type: Blurb
 
 So, I have applied to the [Udacity robotics nanodegree][0] and now am preparing myself. Udacity suggests the following courses as preparation:
 
-* [Machine Learning Engineer Nanodegree --- Udacity][1]
+* [Machine Learning Engineer Nanodegree][1]
 * [AI for Robotics][2]
-* [Programming Foundations with Python --- Udacity][3]
+* [Programming Foundations with Python][3]
 * [C++ tutorial by Sololearn][4]
 * [Linux Command Line Basics][5]
-* [Statistics and Probability --- Khan Academy][6]
-* [Linear Algebra --- Khan Academy][7]
-* [Multivariable Calculus --- Khan Academy][8]
+* [Statistics and Probability][6]
+* [Linear Algebra][7]
+* [Multivariable Calculus][8]
 * [ROS Tutorials][9]
 
 [0]: https://www.udacity.com/robotics
