@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: Article
-dateModified: '2018-03-18T19:47:55.059Z'
-datePublished: '2018-03-18T19:47:55.683Z'
+dateModified: '2018-03-18T20:14:19.764Z'
+datePublished: '2018-03-18T20:14:48.714Z'
 title: Take a look at MIT’ made drones to be faster and not slam into obstacles!
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2018-03-18T19:47:55.683Z'
 sourcePath: >-
   _posts/2018-03-18-take-a-look-at-mit-made-drones-to-be-faster-and-not-slam-in.md
+starred: false
+datePublishedOriginal: '2018-03-18T19:47:55.683Z'
 url: take-a-look-at-mit-made-drones-to-be-faster-and-not-slam-in/index.html
 _type: Article
 
