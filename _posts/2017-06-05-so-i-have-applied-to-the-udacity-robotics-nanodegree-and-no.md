@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  So, I have applied to the Udacity robotics nanodegree and now am preparing
+  So, I have applied to the Udacity flying cars nanodegree and now am preparing
   myself. Udacity suggests the following courses as preparation:
-dateModified: '2017-06-05T22:24:50.970Z'
-datePublished: '2017-06-05T22:24:51.872Z'
+dateModified: '2018-03-18T12:03:00.906Z'
+datePublished: '2018-03-18T12:03:01.861Z'
 title: ''
 author: []
 publisher: {}
@@ -18,11 +18,11 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b20b3941-870a-4f34-adef-8a603c525f18.png)
 
-So, I have applied to the [Udacity robotics nanodegree][0] and now am preparing myself. Udacity suggests the following courses as preparation:
+So, I have applied to the [Udacity flying cars nanodegree][0] and now am preparing myself. Udacity suggests the following courses as preparation:
 
-* [Machine Learning Engineer Nanodegree][1]
+* [Machine Learning][1]
 * [AI for Robotics][2]
-* [Programming Foundations with Python][3]
+* [Programming Foundations][3]
 * [C++ tutorial by Sololearn][4]
 * [Linux Command Line Basics][5]
 * [Statistics and Probability][6]
@@ -30,7 +30,9 @@ So, I have applied to the [Udacity robotics nanodegree][0] and now am preparing 
 * [Multivariable Calculus][8]
 * [ROS Tutorials][9]
 
-[0]: https://www.udacity.com/robotics
+In the next few articles I will describe my opinion on those I have passed and also review some books, that I have found useful.
+
+[0]: https://www.udacity.com/course/flying-car-nanodegree--nd787
 [1]: https://www.udacity.com/course/nd009
 [2]: https://www.udacity.com/course/cs373
 [3]: https://www.udacity.com/course/ud036
