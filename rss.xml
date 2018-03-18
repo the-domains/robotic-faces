@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[roBOTic faces]]></title>
+        <description><![CDATA[roBOTic faces]]></description>
+        <link>http://roboticfaces.engineer/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 18 Mar 2018 19:47:57 GMT</lastBuildDate>
+        <atom:link href="http://roboticfaces.engineer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Take a look at MIT’ made drones to be faster and not slam into obstacles!]]></title>
+            <description><![CDATA[<h1>Take a look at MIT’ made drones to be faster and not slam into obstacles!</h1>,<p><a href="https://hackaday.com/2018/02/12/nanomap-mits-uncertain-solution-to-autonomous-navigation/" title="">Article</a></p>,<p><a href="https://drive.google.com/file/d/1uo2idg7VbzU9iBWaqmksCfCCyE--V_Cc/view" title="">Whitepaper</a></p>]]></description>
+            <link>http://roboticfaces.engineer/take-a-look-at-mit-made-drones-to-be-faster-and-not-slam-in/index.html</link>
+            <guid isPermaLink="false">7de9951f-3395-47dc-b2f9-610b4e4ec05e</guid>
+            <pubDate>Sun, 18 Mar 2018 19:47:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
