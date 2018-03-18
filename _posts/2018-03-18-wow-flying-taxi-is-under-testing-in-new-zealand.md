@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Link
-dateModified: '2018-03-18T12:09:40.808Z'
-datePublished: '2018-03-18T12:09:41.540Z'
+description: Video link
+dateModified: '2018-03-18T19:35:44.537Z'
+datePublished: '2018-03-18T19:35:45.501Z'
 title: WOW! Flying taxi is under testing in New Zealand!
 author: []
 publisher: {}
@@ -17,6 +17,9 @@ _type: Blurb
 
 # WOW! Flying taxi is under testing in New Zealand!
 
-[Link][0]
+[Video link][0]
+
+[News link][1]
 
 [0]: https://www.youtube.com/watch?v=LeFxjRMv5U8&feature=youtu.be
+[1]: https://futurism.com/flying-taxi-new-zealand/
