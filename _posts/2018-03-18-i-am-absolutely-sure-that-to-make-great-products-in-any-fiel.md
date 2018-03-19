@@ -6,8 +6,8 @@ description: >-
   great at tech but also at understanding people’ needs and how to systematize
   them. Here are two great books, that I love, which describe common methods to
   achieve good results working with people pains.
-dateModified: '2018-03-19T17:27:56.377Z'
-datePublished: '2018-03-19T17:27:56.941Z'
+dateModified: '2018-03-19T17:28:00.162Z'
+datePublished: '2018-03-19T17:28:00.557Z'
 title: ''
 author: []
 publisher: {}
