@@ -4,12 +4,19 @@
         <description><![CDATA[roBOTic faces]]></description>
         <link>http://roboticfaces.engineer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Mar 2018 17:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Mar 2018 19:25:34 GMT</lastBuildDate>
         <atom:link href="http://roboticfaces.engineer/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Mar 2018 17:32:05 GMT</pubDate>
+        <pubDate>Thu, 29 Mar 2018 19:25:33 GMT</pubDate>
         <item>
-            <title><![CDATA[Future is near ;)]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fohig71bwRUE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dohig71bwRUE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fohig71bwRUE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>,<h1>Future is near ;)</h1>]]></description>
+            <title><![CDATA[Here is how my diagonal A-star works for navigation task]]></title>
+            <description><![CDATA[<h1>Here is how my diagonal A-star works for navigation task</h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FE37OhAIhFEc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE37OhAIhFEc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FE37OhAIhFEc%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://youtu.be/E37OhAIhFEc</link>
+            <guid isPermaLink="false">fed54615-00d2-4a5c-b472-2463e106f88a</guid>
+            <pubDate>Thu, 29 Mar 2018 19:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Future is near ;]]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fohig71bwRUE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dohig71bwRUE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fohig71bwRUE%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>,<h1>Future is near ;]</h1>]]></description>
             <link>https://www.youtube.com/watch?v=ohig71bwRUE</link>
             <guid isPermaLink="false">3b20c43d-c691-4fb1-bcc9-8aac9b6950f9</guid>
             <pubDate>Mon, 19 Mar 2018 17:21:54 GMT</pubDate>
